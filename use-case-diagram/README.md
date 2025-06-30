@@ -24,3 +24,6 @@ The system supports the following interactions between users and backend functio
 - Understand user flows before coding
 - Validate core feature requirements
 - Ensure backend logic supports real-world scenarios
+
+- 
+![ER Diagram](?raw=true)
