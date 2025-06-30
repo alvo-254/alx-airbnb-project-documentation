@@ -26,4 +26,4 @@ The system supports the following interactions between users and backend functio
 - Ensure backend logic supports real-world scenarios
 
 - 
-![ER Diagram](?raw=true)
+![ER Diagram](https://github.com/alvo-254/alx-airbnb-project-documentation/blob/main/use-case-diagram/de.jpeg?raw=true?raw=true)
