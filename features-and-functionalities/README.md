@@ -9,7 +9,7 @@ Welcome to the backend of the **Airbnb Clone** project. This system powers key f
 The following diagram illustrates key system interactions between users (guests, hosts, administrators) and the backend functionalities.
 
 
-![ER Diagram](?raw=true)
+![ER Diagram](https://github.com/alvo-254/alx-airbnb-project-documentation/blob/main/features-and-functionalities/se.png?raw=true?raw=true)
 
 
 > 📎 Place the diagram image file in your project at: `docs/airbnb_usecase.png`  
